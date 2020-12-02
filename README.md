@@ -14,7 +14,6 @@ With the beneficts of no longer care about Python versions, insall compilers, ov
 ## Installation
 
 * Need a basic Docker and Docker-Composer installed;
-* Create a directory called ***/opt/godot*** with write permitions;
 * Put this repo sided to the Godot repository (nammed ***godot*** as designed in clone link from GitHub)
 
 ## Running
